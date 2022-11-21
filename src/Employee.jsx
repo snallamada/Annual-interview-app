@@ -1,9 +1,9 @@
 
 
-const  = () => {
+const Employee = () => {
   return (
-    <header><h1>Header Content</h1>
-    </header>
+    <div><h1>Employees</h1>
+    </div>
   )
 }
-export default Header
+export default Employee
