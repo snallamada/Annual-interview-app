@@ -1,4 +1,4 @@
-#card-collection{
+.card-collection{
   display:grid;
   grid-template-colums: 1fr 1fr 1fr;
 }
